@@ -1,5 +1,5 @@
 # Laboratório de Engenharia de Software
->Este repositório tem por fins de **atividades** e **boas práticas** da disciplina de _Laboratório de Engenharia de Software._
+Este repositório tem por utilização das de **boas práticas** e **atividades** da disciplina de _Laboratório de Engenharia de Software._
 <hr>
 
 - ## Git & GitHub
